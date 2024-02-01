@@ -49,5 +49,17 @@ python test.py -d coco \
                --root path/to/dataset/ \
                --show
 
+## 🖊️ Citation [🔝](#-table-of-contents)
+If you find this project useful in your research, please consider citing:
+
+```latex
+@misc{DetLAB,
+    title={{DetLAB},
+    author={yjh0410},
+    howpublished = {\url{https://github.com/yjh0410/DetLAB}},
+}
+```
+
+
 
 
