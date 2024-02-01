@@ -48,8 +48,9 @@ python test.py -d coco \
                --weight path/to/weight \
                --root path/to/dataset/ \
                --show
+```
 
-## 🖊️ Citation [🔝](#-table-of-contents)
+# Citation 
 If you find this project useful in your research, please consider citing:
 
 ```latex
