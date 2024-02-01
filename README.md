@@ -1,7 +1,4 @@
 # Cross-domain object detection
-This project is my library of **One-stage Object Detection**.
-My code is clean and concise, without too deep encapsulation, 
-so it is easy to understand the function of each module.
 
 
 
